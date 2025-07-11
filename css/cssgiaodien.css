@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+#container
+{
+	
+	margin:0px auto;
+	height:autopx;
+	width:1000px;
+	background-color:#F47B7D;
+}
+#banner
+{
+	float:left;
+	height:100px;
+	width:1000px;
+	background-color:#DF63CF;
+}
+#menu
+{
+	float:left;
+	height:50px;
+	width:1000px;
+	background-color:#43BBCF;
+}
+#main
+{
+	float:left;
+	height:auto;
+	width:1000px;
+	background-color:#8E4D27;
+}
+#main_left
+{
+	float:left;
+	height:450px;
+	width:110px;
+	background-color:#48F135;
+}
+#main_right
+{
+	float:right;	
+	height:450px;
+	width:885px;
+	background-color:#99D8D7;
+}
+#product
+{
+	float:left;
+	margin:8px;
+	border-color:#C55D5F;
+	border:2px solid;
+	height:200px;
+	width:270px;
+	background-color:#8F7DD8;
+}
+#product_images
+{
+	float:left;
+	height:200px;
+	width:180px;
+	background-color:#20058C;
+}
+#product_info
+{
+	float:right;
+	height:auto;
+	width:90px;
+	background-color:#BC5A5C;
+}
+#product_name
+{
+	float:left;
+	height:25px;
+	width:100%;
+	background-color:#82607A;
+	text-align:center;
+	padding-top:5px;
+}
+#product_discribe
+{
+	float:left;
+	height:140px;
+	width:100%;
+	background-color:#4A3A9B;
+}
+#product_price
+{
+	float:left;
+	height:30px;
+	width:100%;
+	background-color:#62945C;
+}
+#footer
+{
+	float:left;
+	height:100px;
+	width:1000px;
+	background-color:#173BAF;
+}
+
